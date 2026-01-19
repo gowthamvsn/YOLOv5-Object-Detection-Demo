@@ -55,7 +55,7 @@ src/
 ```bash
 pip install -r requirements.txt
 python src/yolo_inference.py
-
+```
 
 ## Author
 
